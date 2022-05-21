@@ -5,8 +5,6 @@ function task1() {
     let slice = text.slice(start, start + len);
     let upper = slice.toUpperCase();
     alert(upper);
-
-    const cars = ["Saab", "Volvo", "BMW"];
 }
 function task2() {
     const cars = ["Saab", "Volvo", "BMW"];
